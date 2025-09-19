@@ -21,7 +21,7 @@ $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1758244337,,"x"
+|2,0,1758244424,,"x"
 :q
 |2,0,1758244025,,"q"
 :w
@@ -124,28 +124,32 @@ $
 |3,0,36,0,1,0,1758115249,"100000"
 
 # File marks:
-'0  4  28  ~/C/main.c
-|4,48,4,28,1758244337,"~/C/main.c"
-'1  3  19  ~/.gitignore
-|4,49,3,19,1758244037,"~/.gitignore"
-'2  2  15  ~/.gitignore
-|4,50,2,15,1758244026,"~/.gitignore"
-'3  2  15  ~/.gitignore
-|4,51,2,15,1758244026,"~/.gitignore"
-'4  1  7  ~/.gitignore
-|4,52,1,7,1758244017,"~/.gitignore"
-'5  1  7  ~/.gitignore
-|4,53,1,7,1758244017,"~/.gitignore"
-'6  1  7  ~/.gitignore
-|4,54,1,7,1758244017,"~/.gitignore"
+'0  1  1  ~/.gitignore
+|4,48,1,1,1758244424,"~/.gitignore"
+'1  4  28  ~/C/main.c
+|4,49,4,28,1758244337,"~/C/main.c"
+'2  3  19  ~/.gitignore
+|4,50,3,19,1758244037,"~/.gitignore"
+'3  1  23  ~/.gitignore
+|4,51,1,23,1758244026,"~/.gitignore"
+'4  1  23  ~/.gitignore
+|4,52,1,23,1758244026,"~/.gitignore"
+'5  2  15  ~/.gitignore
+|4,53,2,15,1758244026,"~/.gitignore"
+'6  2  15  ~/.gitignore
+|4,54,2,15,1758244026,"~/.gitignore"
 '7  1  7  ~/.gitignore
 |4,55,1,7,1758244017,"~/.gitignore"
-'8  1  0  ~/.gitignore
-|4,56,1,0,1758243965,"~/.gitignore"
-'9  1  0  ~/.gitignore
-|4,57,1,0,1758243965,"~/.gitignore"
+'8  1  7  ~/.gitignore
+|4,56,1,7,1758244017,"~/.gitignore"
+'9  1  7  ~/.gitignore
+|4,57,1,7,1758244017,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  1  1  ~/.gitignore
+|4,39,1,1,1758244424,"~/.gitignore"
+-'  4  28  ~/C/main.c
+|4,39,4,28,1758244337,"~/C/main.c"
 -'  4  28  ~/C/main.c
 |4,39,4,28,1758244337,"~/C/main.c"
 -'  3  19  ~/.gitignore
@@ -210,6 +214,40 @@ $
 |4,39,1,17,1758242420,"~/C/main.c"
 -'  1  17  ~/C/main.c
 |4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
 -'  4  32  ~/C/main.c
 |4,39,4,32,1758242287,"~/C/main.c"
 -'  4  32  ~/C/main.c
@@ -274,78 +312,53 @@ $
 |4,39,4,32,1758242287,"~/C/main.c"
 -'  4  32  ~/C/main.c
 |4,39,4,32,1758242287,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  1  0  ~/C/main.c
-|4,39,1,0,1758242266,"~/C/main.c"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  6  31  ~/Java/HelloWorld.class
-|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1758244424	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	7
+	+	1	23
+	+	1	8
+	+	1	43
+	+	1	1
 
 > ~/C/main.c
 	*	1758244336	0
@@ -357,16 +370,6 @@ $
 	+	1	18
 	+	2	0
 	+	4	28
-
-> ~/.gitignore
-	*	1758244036	0
-	"	3	19
-	^	3	20
-	.	3	19
-	+	1	7
-	+	2	15
-	+	2	0
-	+	3	19
 
 > ~/Java/HelloWorld.class
 	*	1758239401	0
