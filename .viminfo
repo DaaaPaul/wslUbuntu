@@ -20,12 +20,12 @@
 $
 
 # Command Line History (newest to oldest):
+:x
+|2,0,1758244037,,"x"
 :q
-|2,0,1758242420,,"q"
+|2,0,1758244025,,"q"
 :w
 |2,0,1758242419,,"w"
-:x
-|2,0,1758242287,,"x"
 :'<,'><
 |2,0,1758115155,,"'<,'><"
 :set nonu
@@ -140,34 +140,168 @@ $
 |3,0,36,0,1,0,1758115249,"100000"
 
 # File marks:
-'0  1  17  ~/C/main.c
-|4,48,1,17,1758242420,"~/C/main.c"
-'1  4  32  ~/C/main.c
-|4,49,4,32,1758242287,"~/C/main.c"
-'2  4  32  ~/C/main.c
-|4,50,4,32,1758242287,"~/C/main.c"
-'3  6  31  ~/Java/HelloWorld.class
-|4,51,6,31,1758239402,"~/Java/HelloWorld.class"
-'4  3  31  ~/Java/HelloWorld.java
-|4,52,3,31,1758238969,"~/Java/HelloWorld.java"
-'5  16  0  ~/Leetcode/pow.cpp
-|4,53,16,0,1758115293,"~/Leetcode/pow.cpp"
-'6  18  0  ~/Leetcode/pow.cpp
-|4,54,18,0,1758115262,"~/Leetcode/pow.cpp"
-'7  18  0  ~/Leetcode/pow.cpp
-|4,55,18,0,1758115262,"~/Leetcode/pow.cpp"
-'8  24  26  ~/Leetcode/pow.cpp
-|4,56,24,26,1758115251,"~/Leetcode/pow.cpp"
-'9  24  26  ~/Leetcode/pow.cpp
-|4,57,24,26,1758115251,"~/Leetcode/pow.cpp"
+'0  3  19  ~/.gitignore
+|4,48,3,19,1758244037,"~/.gitignore"
+'1  2  15  ~/.gitignore
+|4,49,2,15,1758244026,"~/.gitignore"
+'2  2  15  ~/.gitignore
+|4,50,2,15,1758244026,"~/.gitignore"
+'3  1  7  ~/.gitignore
+|4,51,1,7,1758244017,"~/.gitignore"
+'4  1  7  ~/.gitignore
+|4,52,1,7,1758244017,"~/.gitignore"
+'5  1  7  ~/.gitignore
+|4,53,1,7,1758244017,"~/.gitignore"
+'6  1  7  ~/.gitignore
+|4,54,1,7,1758244017,"~/.gitignore"
+'7  1  0  ~/.gitignore
+|4,55,1,0,1758243965,"~/.gitignore"
+'8  1  0  ~/.gitignore
+|4,56,1,0,1758243965,"~/.gitignore"
+'9  1  0  ~/.gitignore
+|4,57,1,0,1758243965,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  3  19  ~/.gitignore
+|4,39,3,19,1758244037,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1758244033,"~/.gitignore"
+-'  2  15  ~/.gitignore
+|4,39,2,15,1758244026,"~/.gitignore"
+-'  2  15  ~/.gitignore
+|4,39,2,15,1758244026,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1758244023,"~/.gitignore"
+-'  1  7  ~/.gitignore
+|4,39,1,7,1758244017,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1758243965,"~/.gitignore"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
+-'  1  17  ~/C/main.c
+|4,39,1,17,1758242420,"~/C/main.c"
 -'  1  17  ~/C/main.c
 |4,39,1,17,1758242420,"~/C/main.c"
 -'  4  32  ~/C/main.c
 |4,39,4,32,1758242287,"~/C/main.c"
 -'  4  32  ~/C/main.c
 |4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  4  32  ~/C/main.c
+|4,39,4,32,1758242287,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
+-'  1  0  ~/C/main.c
+|4,39,1,0,1758242266,"~/C/main.c"
 -'  1  0  ~/C/main.c
 |4,39,1,0,1758242266,"~/C/main.c"
 -'  6  31  ~/Java/HelloWorld.class
@@ -178,192 +312,68 @@ $
 |4,39,6,31,1758239402,"~/Java/HelloWorld.class"
 -'  6  31  ~/Java/HelloWorld.class
 |4,39,6,31,1758239402,"~/Java/HelloWorld.class"
--'  1  0  ~/Java/HelloWorld.class
-|4,39,1,0,1758239397,"~/Java/HelloWorld.class"
--'  1  0  ~/Java/HelloWorld.class
-|4,39,1,0,1758239397,"~/Java/HelloWorld.class"
--'  1  0  ~/Java/HelloWorld.class
-|4,39,1,0,1758239397,"~/Java/HelloWorld.class"
--'  1  0  ~/Java/HelloWorld.class
-|4,39,1,0,1758239397,"~/Java/HelloWorld.class"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  3  31  ~/Java/HelloWorld.java
-|4,39,3,31,1758238969,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  1  0  ~/Java/HelloWorld.java
-|4,39,1,0,1758238946,"~/Java/HelloWorld.java"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  16  0  ~/Leetcode/pow.cpp
-|4,39,16,0,1758115293,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115282,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  18  0  ~/Leetcode/pow.cpp
-|4,39,18,0,1758115262,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
--'  1  0  ~/Leetcode/pow.cpp
-|4,39,1,0,1758115258,"~/Leetcode/pow.cpp"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
+-'  6  31  ~/Java/HelloWorld.class
+|4,39,6,31,1758239402,"~/Java/HelloWorld.class"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1758244036	0
+	"	3	19
+	^	3	20
+	.	3	19
+	+	1	7
+	+	2	15
+	+	2	0
+	+	3	19
 
 > ~/C/main.c
 	*	1758242419	0
